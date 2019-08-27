@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# 欢迎访问 N Plus&copy;  OS（N+&copy; OS）开发组官方网站
 
-You can use the [editor on GitHub](https://github.com/MXrek-outlook/NPlusOS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## 开始了解 N Plus OS
+## [前往这里了解我们的故事](https://support.qq.com/products/81033/team/ "前往这里了解我们的故事")
+## [前往这里看看我们的开发日志](https://support.qq.com/products/81033/blog-archive "前往这里看看我们的开发日志")
+## 1.什么是N Plus OS？
+### 实际上就是一个挺好哒PPT系统
 
-- Bulleted
-- List
+## 2. N Plus OS可以干什么？
+### 可以看看我们制作的过渡动画（简直是解压神器有木有 ）听听自带的音乐，看看天气（没错哒）
+------------
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## 下载 & 安装 N Plus OS
+### 快，点击这里[下载](https://pan.baidu.com/s/1SLV7o3ZuItBaV9peEXwn3A "下载")吧，吼吼吼（偷偷告诉你提取码是uf7f）
+### 然后用PPT打开就好惹（一定要是Office 2019或365哦）
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+------------
 
-### Jekyll Themes
+## 反馈问题哒地方
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MXrek-outlook/NPlusOS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 就系这里哒（[Ko~Ko~Da~Yo~](https://support.qq.com/product/81033 "Ko~Ko~Da~Yo~")）你不要过来啊（awsl）
 
-### Support or Contact
+------------
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 关于 N Plus OS是否允许修改
+### 我们的决定系.......
+## 允许哒
+
+------------
+
+# 来讲讲开发组的小可爱们（被打）
+
+------------
+
+## 开发人员
+#### MXrek
+#### Yoshi
